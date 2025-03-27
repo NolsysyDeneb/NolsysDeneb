@@ -2088,8 +2088,7 @@ img {
 
 .wedding-location-section .location-grids .grid {
   width: calc(50% - 30px);
-  float: center;
-  justify-content: center;
+  float: left;
   margin: 0 15px 100px;
 }
 
